@@ -1,0 +1,30 @@
+Do rysowania drzewa decyzyjnego w Pythonie można użyć biblioteki Graphviz. Biblioteka ta pozwala na tworzenie grafów za pomocą języka DOT, który jest bardzo prosty do nauki.
+
+W przypadku zagnieżdżonej listy węzłów, należy przejść przez drzewo i stworzyć z niego graf w formacie DOT, a następnie użyć biblioteki Graphviz do wyrenderowania drzewa w postaci obrazu. Poniżej przedstawiam przykładowy kod:
+
+python
+Copy code
+import graphviz
+
+# Przykładowa zagnieżdżona lista węzłów
+tree = [
+    ['Węzeł 1', 'Decyzja 1', ['Węzeł 2', 'Decyzja 2', 'Liść 1'], ['Węzeł 3', 'Decyzja 3', 'Liść 2']],
+    ['Węzeł 4', 'Decyzja 4', ['Węzeł 5', 'Decyzja 5', 'Liść 3'], 'Liść 4']
+]
+
+# Funkcja tworząca graf w formacie DOT
+def create_graph(tree, graph):
+    if isinstance(tree, str):
+        return tree
+    else:
+        node = str(tree[0])
+        graph.node(node, node)
+        for child in tree[1:]:
+            if isinstance(child, str):
+                leaf = str(child)
+                graph.node(leaf, leaf, shape='box')
+                graph.edge(node, leaf, label='TAK')
+            else:
+                child_node = create_graph(child, graph)
+                graph.edge(node, child_node, label=child[1])
+        return
