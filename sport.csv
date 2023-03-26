@@ -1,0 +1,217 @@
+﻿miejsce zamieszkania,poziom zaawansowania,czestotliwosc/tydz,towarzystwo,typ treningu,klasa
+miasto,amator,<2,indywidualnie,wytrzymalosciowy,2
+wies,amator,<2,indywidualnie,wytrzymalosciowy,2
+miasto,poczatkujacy,<2,indywidualnie,wytrzymalosciowy,1
+wies,poczatkujacy,<2,indywidualnie,wytrzymalosciowy,1
+miasto,zaawansowany,<2,indywidualnie,wytrzymalosciowy,3
+wies,zaawansowany,<2,indywidualnie,wytrzymalosciowy,3
+miasto,amator,3-5,indywidualnie,wytrzymalosciowy,1
+wies,amator,3-5,indywidualnie,wytrzymalosciowy,6
+miasto,poczatkujacy,3-5,indywidualnie,wytrzymalosciowy,4
+wies,poczatkujacy,3-5,indywidualnie,wytrzymalosciowy,4
+miasto,zaawansowany,3-5,indywidualnie,wytrzymalosciowy,1
+wies,zaawansowany,3-5,indywidualnie,wytrzymalosciowy,2
+miasto,amator,>5,indywidualnie,wytrzymalosciowy,2
+wies,amator,>5,indywidualnie,wytrzymalosciowy,2
+miasto,poczatkujacy,>5,indywidualnie,wytrzymalosciowy,1
+wies,poczatkujacy,>5,indywidualnie,wytrzymalosciowy,1
+miasto,zaawansowany,>5,indywidualnie,wytrzymalosciowy,3
+wies,zaawansowany,>5,indywidualnie,wytrzymalosciowy,4
+miasto,amator,<2,w parze,wytrzymalosciowy,2
+wies,amator,<2,w parze,wytrzymalosciowy,1
+miasto,poczatkujacy,<2,w parze,wytrzymalosciowy,3
+wies,poczatkujacy,<2,w parze,wytrzymalosciowy,4
+miasto,zaawansowany,<2,w parze,wytrzymalosciowy,2
+wies,zaawansowany,<2,w parze,wytrzymalosciowy,2
+miasto,amator,3-5,w parze,wytrzymalosciowy,1
+wies,amator,3-5,w parze,wytrzymalosciowy,3
+miasto,poczatkujacy,3-5,w parze,wytrzymalosciowy,4
+wies,poczatkujacy,3-5,w parze,wytrzymalosciowy,7
+miasto,zaawansowany,3-5,w parze,wytrzymalosciowy,7
+wies,zaawansowany,3-5,w parze,wytrzymalosciowy,1
+miasto,amator,>5,w parze,wytrzymalosciowy,1
+wies,amator,>5,w parze,wytrzymalosciowy,1
+miasto,poczatkujacy,>5,w parze,wytrzymalosciowy,2
+wies,poczatkujacy,>5,w parze,wytrzymalosciowy,1
+miasto,zaawansowany,>5,w parze,wytrzymalosciowy,3
+wies,zaawansowany,>5,w parze,wytrzymalosciowy,2
+miasto,amator,<2,w grupie,wytrzymalosciowy,4
+wies,amator,<2,w grupie,wytrzymalosciowy,2
+miasto,poczatkujacy,<2,w grupie,wytrzymalosciowy,3
+wies,poczatkujacy,<2,w grupie,wytrzymalosciowy,2
+miasto,zaawansowany,<2,w grupie,wytrzymalosciowy,3
+wies,zaawansowany,<2,w grupie,wytrzymalosciowy,2
+miasto,amator,3-5,w grupie,wytrzymalosciowy,2
+wies,amator,3-5,w grupie,wytrzymalosciowy,1
+miasto,poczatkujacy,3-5,w grupie,wytrzymalosciowy,1
+wies,poczatkujacy,3-5,w grupie,wytrzymalosciowy,1
+miasto,zaawansowany,3-5,w grupie,wytrzymalosciowy,1
+wies,zaawansowany,3-5,w grupie,wytrzymalosciowy,1
+miasto,amator,>5,w grupie,wytrzymalosciowy,2
+wies,amator,>5,w grupie,wytrzymalosciowy,2
+miasto,poczatkujacy,>5,w grupie,wytrzymalosciowy,3
+wies,poczatkujacy,>5,w grupie,wytrzymalosciowy,2
+miasto,zaawansowany,>5,w grupie,wytrzymalosciowy,7
+wies,zaawansowany,>5,w grupie,wytrzymalosciowy,7
+miasto,amator,<2,indywidualnie,techniczny,1
+wies,amator,<2,indywidualnie,techniczny,2
+miasto,poczatkujacy,<2,indywidualnie,techniczny,5
+wies,poczatkujacy,<2,indywidualnie,techniczny,2
+miasto,zaawansowany,<2,indywidualnie,techniczny,6
+wies,zaawansowany,<2,indywidualnie,techniczny,6
+miasto,amator,3-5,indywidualnie,techniczny,1
+wies,amator,3-5,indywidualnie,techniczny,2
+miasto,poczatkujacy,3-5,indywidualnie,techniczny,7
+wies,poczatkujacy,3-5,indywidualnie,techniczny,1
+miasto,zaawansowany,3-5,indywidualnie,techniczny,5
+wies,zaawansowany,3-5,indywidualnie,techniczny,1
+miasto,amator,>5,indywidualnie,techniczny,5
+wies,amator,>5,indywidualnie,techniczny,1
+miasto,poczatkujacy,>5,indywidualnie,techniczny,2
+wies,poczatkujacy,>5,indywidualnie,techniczny,1
+miasto,zaawansowany,>5,indywidualnie,techniczny,5
+wies,zaawansowany,>5,indywidualnie,techniczny,2
+miasto,amator,<2,w parze,techniczny,6
+wies,amator,<2,w parze,techniczny,1
+miasto,poczatkujacy,<2,w parze,techniczny,4
+wies,poczatkujacy,<2,w parze,techniczny,2
+miasto,zaawansowany,<2,w parze,techniczny,4
+wies,zaawansowany,<2,w parze,techniczny,1
+miasto,amator,3-5,w parze,techniczny,5
+wies,amator,3-5,w parze,techniczny,2
+miasto,poczatkujacy,3-5,w parze,techniczny,4
+wies,poczatkujacy,3-5,w parze,techniczny,1
+miasto,zaawansowany,3-5,w parze,techniczny,6
+wies,zaawansowany,3-5,w parze,techniczny,1
+miasto,amator,>5,w parze,techniczny,4
+wies,amator,>5,w parze,techniczny,2
+miasto,poczatkujacy,>5,w parze,techniczny,6
+wies,poczatkujacy,>5,w parze,techniczny,1
+miasto,zaawansowany,>5,w parze,techniczny,4
+wies,zaawansowany,>5,w parze,techniczny,2
+miasto,amator,<2,w grupie,techniczny,4
+wies,amator,<2,w grupie,techniczny,3
+miasto,poczatkujacy,<2,w grupie,techniczny,4
+wies,poczatkujacy,<2,w grupie,techniczny,3
+miasto,zaawansowany,<2,w grupie,techniczny,4
+wies,zaawansowany,<2,w grupie,techniczny,3
+miasto,amator,3-5,w grupie,techniczny,4
+wies,amator,3-5,w grupie,techniczny,3
+miasto,poczatkujacy,3-5,w grupie,techniczny,4
+wies,poczatkujacy,3-5,w grupie,techniczny,3
+miasto,zaawansowany,3-5,w grupie,techniczny,4
+wies,zaawansowany,3-5,w grupie,techniczny,3
+miasto,amator,>5,w grupie,techniczny,4
+wies,amator,>5,w grupie,techniczny,3
+miasto,poczatkujacy,>5,w grupie,techniczny,4
+wies,poczatkujacy,>5,w grupie,techniczny,3
+miasto,zaawansowany,>5,w grupie,techniczny,4
+wies,zaawansowany,>5,w grupie,techniczny,3
+miasto,amator,<2,indywidualnie,silowy,1
+wies,amator,<2,indywidualnie,silowy,4
+miasto,poczatkujacy,<2,indywidualnie,silowy,6
+wies,poczatkujacy,<2,indywidualnie,silowy,5
+miasto,zaawansowany,<2,indywidualnie,silowy,6
+wies,zaawansowany,<2,indywidualnie,silowy,2
+miasto,amator,3-5,indywidualnie,silowy,1
+wies,amator,3-5,indywidualnie,silowy,3
+miasto,poczatkujacy,3-5,indywidualnie,silowy,4
+wies,poczatkujacy,3-5,indywidualnie,silowy,3
+miasto,zaawansowany,3-5,indywidualnie,silowy,2
+wies,zaawansowany,3-5,indywidualnie,silowy,3
+miasto,amator,>5,indywidualnie,silowy,1
+wies,amator,>5,indywidualnie,silowy,6
+miasto,poczatkujacy,>5,indywidualnie,silowy,7
+wies,poczatkujacy,>5,indywidualnie,silowy,6
+miasto,zaawansowany,>5,indywidualnie,silowy,5
+wies,zaawansowany,>5,indywidualnie,silowy,7
+miasto,amator,<2,w parze,silowy,6
+wies,amator,<2,w parze,silowy,5
+miasto,poczatkujacy,<2,w parze,silowy,1
+wies,poczatkujacy,<2,w parze,silowy,2
+miasto,zaawansowany,<2,w parze,silowy,3
+wies,zaawansowany,<2,w parze,silowy,4
+miasto,amator,3-5,w parze,silowy,1
+wies,amator,3-5,w parze,silowy,2
+miasto,poczatkujacy,3-5,w parze,silowy,7
+wies,poczatkujacy,3-5,w parze,silowy,6
+miasto,zaawansowany,3-5,w parze,silowy,6
+wies,zaawansowany,3-5,w parze,silowy,7
+miasto,amator,>5,w parze,silowy,5
+wies,amator,>5,w parze,silowy,4
+miasto,poczatkujacy,>5,w parze,silowy,3
+wies,poczatkujacy,>5,w parze,silowy,5
+miasto,zaawansowany,>5,w parze,silowy,4
+wies,zaawansowany,>5,w parze,silowy,2
+miasto,amator,<2,w grupie,silowy,3
+wies,amator,<2,w grupie,silowy,1
+miasto,poczatkujacy,<2,w grupie,silowy,7
+wies,poczatkujacy,<2,w grupie,silowy,6
+miasto,zaawansowany,<2,w grupie,silowy,2
+wies,zaawansowany,<2,w grupie,silowy,3
+miasto,amator,3-5,w grupie,silowy,1
+wies,amator,3-5,w grupie,silowy,5
+miasto,poczatkujacy,3-5,w grupie,silowy,4
+wies,poczatkujacy,3-5,w grupie,silowy,2
+miasto,zaawansowany,3-5,w grupie,silowy,7
+wies,zaawansowany,3-5,w grupie,silowy,5
+miasto,amator,>5,w grupie,silowy,2
+wies,amator,>5,w grupie,silowy,3
+miasto,poczatkujacy,>5,w grupie,silowy,2
+wies,poczatkujacy,>5,w grupie,silowy,6
+miasto,zaawansowany,>5,w grupie,silowy,5
+wies,zaawansowany,>5,w grupie,silowy,3
+miasto,amator,<2,indywidualnie,rekreacyjny,6
+wies,amator,<2,indywidualnie,rekreacyjny,1
+miasto,poczatkujacy,<2,indywidualnie,rekreacyjny,6
+wies,poczatkujacy,<2,indywidualnie,rekreacyjny,1
+miasto,zaawansowany,<2,indywidualnie,rekreacyjny,6
+wies,zaawansowany,<2,indywidualnie,rekreacyjny,1
+miasto,amator,3-5,indywidualnie,rekreacyjny,5
+wies,amator,3-5,indywidualnie,rekreacyjny,1
+miasto,poczatkujacy,3-5,indywidualnie,rekreacyjny,5
+wies,poczatkujacy,3-5,indywidualnie,rekreacyjny,1
+miasto,zaawansowany,3-5,indywidualnie,rekreacyjny,6
+wies,zaawansowany,3-5,indywidualnie,rekreacyjny,1
+miasto,amator,>5,indywidualnie,rekreacyjny,5
+wies,amator,>5,indywidualnie,rekreacyjny,2
+miasto,poczatkujacy,>5,indywidualnie,rekreacyjny,5
+wies,poczatkujacy,>5,indywidualnie,rekreacyjny,2
+miasto,zaawansowany,>5,indywidualnie,rekreacyjny,4
+wies,zaawansowany,>5,indywidualnie,rekreacyjny,2
+miasto,amator,<2,w parze,rekreacyjny,6
+wies,amator,<2,w parze,rekreacyjny,2
+miasto,poczatkujacy,<2,w parze,rekreacyjny,6
+wies,poczatkujacy,<2,w parze,rekreacyjny,2
+miasto,zaawansowany,<2,w parze,rekreacyjny,4
+wies,zaawansowany,<2,w parze,rekreacyjny,2
+miasto,amator,3-5,w parze,rekreacyjny,5
+wies,amator,3-5,w parze,rekreacyjny,2
+miasto,poczatkujacy,3-5,w parze,rekreacyjny,5
+wies,poczatkujacy,3-5,w parze,rekreacyjny,2
+miasto,zaawansowany,3-5,w parze,rekreacyjny,4
+wies,zaawansowany,3-5,w parze,rekreacyjny,2
+miasto,amator,>5,w parze,rekreacyjny,5
+wies,amator,>5,w parze,rekreacyjny,2
+miasto,poczatkujacy,>5,w parze,rekreacyjny,5
+wies,poczatkujacy,>5,w parze,rekreacyjny,2
+miasto,zaawansowany,>5,w parze,rekreacyjny,5
+wies,zaawansowany,>5,w parze,rekreacyjny,2
+miasto,amator,<2,w grupie,rekreacyjny,6
+wies,amator,<2,w grupie,rekreacyjny,1
+miasto,poczatkujacy,<2,w grupie,rekreacyjny,4
+wies,poczatkujacy,<2,w grupie,rekreacyjny,1
+miasto,zaawansowany,<2,w grupie,rekreacyjny,4
+wies,zaawansowany,<2,w grupie,rekreacyjny,1
+miasto,amator,3-5,w grupie,rekreacyjny,5
+wies,amator,3-5,w grupie,rekreacyjny,1
+miasto,poczatkujacy,3-5,w grupie,rekreacyjny,5
+wies,poczatkujacy,3-5,w grupie,rekreacyjny,1
+miasto,zaawansowany,3-5,w grupie,rekreacyjny,4
+wies,zaawansowany,3-5,w grupie,rekreacyjny,1
+miasto,amator,>5,w grupie,rekreacyjny,5
+wies,amator,>5,w grupie,rekreacyjny,2
+miasto,poczatkujacy,>5,w grupie,rekreacyjny,6
+wies,poczatkujacy,>5,w grupie,rekreacyjny,2
+miasto,zaawansowany,>5,w grupie,rekreacyjny,4
+wies,zaawansowany,>5,w grupie,rekreacyjny,2
