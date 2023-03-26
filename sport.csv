@@ -1,0 +1,217 @@
+﻿miejsce zamieszkania,poziom zaawansowania,czestotliwosc/tydz,towarzystwo,typ treningu,klasa
+miasto,amator,<2,indywidualnie,wytrzymalosciowy,bieganie
+wies,amator,<2,indywidualnie,wytrzymalosciowy,bieganie
+miasto,poczatkujacy,<2,indywidualnie,wytrzymalosciowy,rower
+wies,poczatkujacy,<2,indywidualnie,wytrzymalosciowy,rower
+miasto,zaawansowany,<2,indywidualnie,wytrzymalosciowy,siatkówka
+wies,zaawansowany,<2,indywidualnie,wytrzymalosciowy,siatkówka
+miasto,amator,03-May,indywidualnie,wytrzymalosciowy,rower
+wies,amator,03-May,indywidualnie,wytrzymalosciowy,wspinaczka
+miasto,poczatkujacy,03-May,indywidualnie,wytrzymalosciowy,kickboxing
+wies,poczatkujacy,03-May,indywidualnie,wytrzymalosciowy,kickboxing
+miasto,zaawansowany,03-May,indywidualnie,wytrzymalosciowy,rower
+wies,zaawansowany,03-May,indywidualnie,wytrzymalosciowy,bieganie
+miasto,amator,>5,indywidualnie,wytrzymalosciowy,bieganie
+wies,amator,>5,indywidualnie,wytrzymalosciowy,bieganie
+miasto,poczatkujacy,>5,indywidualnie,wytrzymalosciowy,rower
+wies,poczatkujacy,>5,indywidualnie,wytrzymalosciowy,rower
+miasto,zaawansowany,>5,indywidualnie,wytrzymalosciowy,siatkówka
+wies,zaawansowany,>5,indywidualnie,wytrzymalosciowy,kickboxing
+miasto,amator,<2,w parze,wytrzymalosciowy,bieganie
+wies,amator,<2,w parze,wytrzymalosciowy,rower
+miasto,poczatkujacy,<2,w parze,wytrzymalosciowy,siatkówka
+wies,poczatkujacy,<2,w parze,wytrzymalosciowy,kickboxing
+miasto,zaawansowany,<2,w parze,wytrzymalosciowy,bieganie
+wies,zaawansowany,<2,w parze,wytrzymalosciowy,bieganie
+miasto,amator,03-May,w parze,wytrzymalosciowy,rower
+wies,amator,03-May,w parze,wytrzymalosciowy,siatkówka
+miasto,poczatkujacy,03-May,w parze,wytrzymalosciowy,kickboxing
+wies,poczatkujacy,03-May,w parze,wytrzymalosciowy,basen
+miasto,zaawansowany,03-May,w parze,wytrzymalosciowy,basen
+wies,zaawansowany,03-May,w parze,wytrzymalosciowy,rower
+miasto,amator,>5,w parze,wytrzymalosciowy,rower
+wies,amator,>5,w parze,wytrzymalosciowy,rower
+miasto,poczatkujacy,>5,w parze,wytrzymalosciowy,bieganie
+wies,poczatkujacy,>5,w parze,wytrzymalosciowy,rower
+miasto,zaawansowany,>5,w parze,wytrzymalosciowy,siatkówka
+wies,zaawansowany,>5,w parze,wytrzymalosciowy,bieganie
+miasto,amator,<2,w grupie,wytrzymalosciowy,kickboxing
+wies,amator,<2,w grupie,wytrzymalosciowy,bieganie
+miasto,poczatkujacy,<2,w grupie,wytrzymalosciowy,siatkówka
+wies,poczatkujacy,<2,w grupie,wytrzymalosciowy,bieganie
+miasto,zaawansowany,<2,w grupie,wytrzymalosciowy,siatkówka
+wies,zaawansowany,<2,w grupie,wytrzymalosciowy,bieganie
+miasto,amator,03-May,w grupie,wytrzymalosciowy,bieganie
+wies,amator,03-May,w grupie,wytrzymalosciowy,rower
+miasto,poczatkujacy,03-May,w grupie,wytrzymalosciowy,rower
+wies,poczatkujacy,03-May,w grupie,wytrzymalosciowy,rower
+miasto,zaawansowany,03-May,w grupie,wytrzymalosciowy,rower
+wies,zaawansowany,03-May,w grupie,wytrzymalosciowy,rower
+miasto,amator,>5,w grupie,wytrzymalosciowy,bieganie
+wies,amator,>5,w grupie,wytrzymalosciowy,bieganie
+miasto,poczatkujacy,>5,w grupie,wytrzymalosciowy,siatkówka
+wies,poczatkujacy,>5,w grupie,wytrzymalosciowy,bieganie
+miasto,zaawansowany,>5,w grupie,wytrzymalosciowy,basen
+wies,zaawansowany,>5,w grupie,wytrzymalosciowy,basen
+miasto,amator,<2,indywidualnie,techniczny,rower
+wies,amator,<2,indywidualnie,techniczny,bieganie
+miasto,poczatkujacy,<2,indywidualnie,techniczny,siłownia
+wies,poczatkujacy,<2,indywidualnie,techniczny,bieganie
+miasto,zaawansowany,<2,indywidualnie,techniczny,wspinaczka
+wies,zaawansowany,<2,indywidualnie,techniczny,wspinaczka
+miasto,amator,03-May,indywidualnie,techniczny,rower
+wies,amator,03-May,indywidualnie,techniczny,bieganie
+miasto,poczatkujacy,03-May,indywidualnie,techniczny,basen
+wies,poczatkujacy,03-May,indywidualnie,techniczny,rower
+miasto,zaawansowany,03-May,indywidualnie,techniczny,siłownia
+wies,zaawansowany,03-May,indywidualnie,techniczny,rower
+miasto,amator,>5,indywidualnie,techniczny,siłownia
+wies,amator,>5,indywidualnie,techniczny,rower
+miasto,poczatkujacy,>5,indywidualnie,techniczny,bieganie
+wies,poczatkujacy,>5,indywidualnie,techniczny,rower
+miasto,zaawansowany,>5,indywidualnie,techniczny,siłownia
+wies,zaawansowany,>5,indywidualnie,techniczny,bieganie
+miasto,amator,<2,w parze,techniczny,wspinaczka
+wies,amator,<2,w parze,techniczny,rower
+miasto,poczatkujacy,<2,w parze,techniczny,kickboxing
+wies,poczatkujacy,<2,w parze,techniczny,bieganie
+miasto,zaawansowany,<2,w parze,techniczny,kickboxing
+wies,zaawansowany,<2,w parze,techniczny,rower
+miasto,amator,03-May,w parze,techniczny,siłownia
+wies,amator,03-May,w parze,techniczny,bieganie
+miasto,poczatkujacy,03-May,w parze,techniczny,kickboxing
+wies,poczatkujacy,03-May,w parze,techniczny,rower
+miasto,zaawansowany,03-May,w parze,techniczny,wspinaczka
+wies,zaawansowany,03-May,w parze,techniczny,rower
+miasto,amator,>5,w parze,techniczny,kickboxing
+wies,amator,>5,w parze,techniczny,bieganie
+miasto,poczatkujacy,>5,w parze,techniczny,wspinaczka
+wies,poczatkujacy,>5,w parze,techniczny,rower
+miasto,zaawansowany,>5,w parze,techniczny,kickboxing
+wies,zaawansowany,>5,w parze,techniczny,bieganie
+miasto,amator,<2,w grupie,techniczny,kickboxing
+wies,amator,<2,w grupie,techniczny,siatkówka
+miasto,poczatkujacy,<2,w grupie,techniczny,kickboxing
+wies,poczatkujacy,<2,w grupie,techniczny,siatkówka
+miasto,zaawansowany,<2,w grupie,techniczny,kickboxing
+wies,zaawansowany,<2,w grupie,techniczny,siatkówka
+miasto,amator,03-May,w grupie,techniczny,kickboxing
+wies,amator,03-May,w grupie,techniczny,siatkówka
+miasto,poczatkujacy,03-May,w grupie,techniczny,kickboxing
+wies,poczatkujacy,03-May,w grupie,techniczny,siatkówka
+miasto,zaawansowany,03-May,w grupie,techniczny,kickboxing
+wies,zaawansowany,03-May,w grupie,techniczny,siatkówka
+miasto,amator,>5,w grupie,techniczny,kickboxing
+wies,amator,>5,w grupie,techniczny,siatkówka
+miasto,poczatkujacy,>5,w grupie,techniczny,kickboxing
+wies,poczatkujacy,>5,w grupie,techniczny,siatkówka
+miasto,zaawansowany,>5,w grupie,techniczny,kickboxing
+wies,zaawansowany,>5,w grupie,techniczny,siatkówka
+miasto,amator,<2,indywidualnie,silowy,rower
+wies,amator,<2,indywidualnie,silowy,kickboxing
+miasto,poczatkujacy,<2,indywidualnie,silowy,wspinaczka
+wies,poczatkujacy,<2,indywidualnie,silowy,siłownia
+miasto,zaawansowany,<2,indywidualnie,silowy,wspinaczka
+wies,zaawansowany,<2,indywidualnie,silowy,bieganie
+miasto,amator,03-May,indywidualnie,silowy,rower
+wies,amator,03-May,indywidualnie,silowy,siatkówka
+miasto,poczatkujacy,03-May,indywidualnie,silowy,kickboxing
+wies,poczatkujacy,03-May,indywidualnie,silowy,siatkówka
+miasto,zaawansowany,03-May,indywidualnie,silowy,bieganie
+wies,zaawansowany,03-May,indywidualnie,silowy,siatkówka
+miasto,amator,>5,indywidualnie,silowy,rower
+wies,amator,>5,indywidualnie,silowy,wspinaczka
+miasto,poczatkujacy,>5,indywidualnie,silowy,basen
+wies,poczatkujacy,>5,indywidualnie,silowy,wspinaczka
+miasto,zaawansowany,>5,indywidualnie,silowy,siłownia
+wies,zaawansowany,>5,indywidualnie,silowy,basen
+miasto,amator,<2,w parze,silowy,wspinaczka
+wies,amator,<2,w parze,silowy,siłownia
+miasto,poczatkujacy,<2,w parze,silowy,rower
+wies,poczatkujacy,<2,w parze,silowy,bieganie
+miasto,zaawansowany,<2,w parze,silowy,siatkówka
+wies,zaawansowany,<2,w parze,silowy,kickboxing
+miasto,amator,03-May,w parze,silowy,rower
+wies,amator,03-May,w parze,silowy,bieganie
+miasto,poczatkujacy,03-May,w parze,silowy,basen
+wies,poczatkujacy,03-May,w parze,silowy,wspinaczka
+miasto,zaawansowany,03-May,w parze,silowy,wspinaczka
+wies,zaawansowany,03-May,w parze,silowy,basen
+miasto,amator,>5,w parze,silowy,siłownia
+wies,amator,>5,w parze,silowy,kickboxing
+miasto,poczatkujacy,>5,w parze,silowy,siatkówka
+wies,poczatkujacy,>5,w parze,silowy,siłownia
+miasto,zaawansowany,>5,w parze,silowy,kickboxing
+wies,zaawansowany,>5,w parze,silowy,bieganie
+miasto,amator,<2,w grupie,silowy,siatkówka
+wies,amator,<2,w grupie,silowy,rower
+miasto,poczatkujacy,<2,w grupie,silowy,basen
+wies,poczatkujacy,<2,w grupie,silowy,wspinaczka
+miasto,zaawansowany,<2,w grupie,silowy,bieganie
+wies,zaawansowany,<2,w grupie,silowy,siatkówka
+miasto,amator,03-May,w grupie,silowy,rower
+wies,amator,03-May,w grupie,silowy,siłownia
+miasto,poczatkujacy,03-May,w grupie,silowy,kickboxing
+wies,poczatkujacy,03-May,w grupie,silowy,bieganie
+miasto,zaawansowany,03-May,w grupie,silowy,basen
+wies,zaawansowany,03-May,w grupie,silowy,siłownia
+miasto,amator,>5,w grupie,silowy,bieganie
+wies,amator,>5,w grupie,silowy,siatkówka
+miasto,poczatkujacy,>5,w grupie,silowy,bieganie
+wies,poczatkujacy,>5,w grupie,silowy,wspinaczka
+miasto,zaawansowany,>5,w grupie,silowy,siłownia
+wies,zaawansowany,>5,w grupie,silowy,siatkówka
+miasto,amator,<2,indywidualnie,rekreacyjny,wspinaczka
+wies,amator,<2,indywidualnie,rekreacyjny,rower
+miasto,poczatkujacy,<2,indywidualnie,rekreacyjny,wspinaczka
+wies,poczatkujacy,<2,indywidualnie,rekreacyjny,rower
+miasto,zaawansowany,<2,indywidualnie,rekreacyjny,wspinaczka
+wies,zaawansowany,<2,indywidualnie,rekreacyjny,rower
+miasto,amator,03-May,indywidualnie,rekreacyjny,siłownia
+wies,amator,03-May,indywidualnie,rekreacyjny,rower
+miasto,poczatkujacy,03-May,indywidualnie,rekreacyjny,siłownia
+wies,poczatkujacy,03-May,indywidualnie,rekreacyjny,rower
+miasto,zaawansowany,03-May,indywidualnie,rekreacyjny,wspinaczka
+wies,zaawansowany,03-May,indywidualnie,rekreacyjny,rower
+miasto,amator,>5,indywidualnie,rekreacyjny,siłownia
+wies,amator,>5,indywidualnie,rekreacyjny,bieganie
+miasto,poczatkujacy,>5,indywidualnie,rekreacyjny,siłownia
+wies,poczatkujacy,>5,indywidualnie,rekreacyjny,bieganie
+miasto,zaawansowany,>5,indywidualnie,rekreacyjny,kickboxing
+wies,zaawansowany,>5,indywidualnie,rekreacyjny,bieganie
+miasto,amator,<2,w parze,rekreacyjny,wspinaczka
+wies,amator,<2,w parze,rekreacyjny,bieganie
+miasto,poczatkujacy,<2,w parze,rekreacyjny,wspinaczka
+wies,poczatkujacy,<2,w parze,rekreacyjny,bieganie
+miasto,zaawansowany,<2,w parze,rekreacyjny,kickboxing
+wies,zaawansowany,<2,w parze,rekreacyjny,bieganie
+miasto,amator,03-May,w parze,rekreacyjny,siłownia
+wies,amator,03-May,w parze,rekreacyjny,bieganie
+miasto,poczatkujacy,03-May,w parze,rekreacyjny,siłownia
+wies,poczatkujacy,03-May,w parze,rekreacyjny,bieganie
+miasto,zaawansowany,03-May,w parze,rekreacyjny,kickboxing
+wies,zaawansowany,03-May,w parze,rekreacyjny,bieganie
+miasto,amator,>5,w parze,rekreacyjny,siłownia
+wies,amator,>5,w parze,rekreacyjny,bieganie
+miasto,poczatkujacy,>5,w parze,rekreacyjny,siłownia
+wies,poczatkujacy,>5,w parze,rekreacyjny,bieganie
+miasto,zaawansowany,>5,w parze,rekreacyjny,siłownia
+wies,zaawansowany,>5,w parze,rekreacyjny,bieganie
+miasto,amator,<2,w grupie,rekreacyjny,wspinaczka
+wies,amator,<2,w grupie,rekreacyjny,rower
+miasto,poczatkujacy,<2,w grupie,rekreacyjny,kickboxing
+wies,poczatkujacy,<2,w grupie,rekreacyjny,rower
+miasto,zaawansowany,<2,w grupie,rekreacyjny,kickboxing
+wies,zaawansowany,<2,w grupie,rekreacyjny,rower
+miasto,amator,03-May,w grupie,rekreacyjny,siłownia
+wies,amator,03-May,w grupie,rekreacyjny,rower
+miasto,poczatkujacy,03-May,w grupie,rekreacyjny,siłownia
+wies,poczatkujacy,03-May,w grupie,rekreacyjny,rower
+miasto,zaawansowany,03-May,w grupie,rekreacyjny,kickboxing
+wies,zaawansowany,03-May,w grupie,rekreacyjny,rower
+miasto,amator,>5,w grupie,rekreacyjny,siłownia
+wies,amator,>5,w grupie,rekreacyjny,bieganie
+miasto,poczatkujacy,>5,w grupie,rekreacyjny,wspinaczka
+wies,poczatkujacy,>5,w grupie,rekreacyjny,bieganie
+miasto,zaawansowany,>5,w grupie,rekreacyjny,kickboxing
+wies,zaawansowany,>5,w grupie,rekreacyjny,bieganie
